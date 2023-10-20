@@ -18,7 +18,7 @@ cd repo_metodo3/
 
 git log
 
-git remote -vgit remote add origin https://github.com/Adriandam1/repo_metodo3.git
+git remote add origin https://github.com/Adriandam1/repo_metodo3.git
 
 git status
 
